@@ -35,12 +35,12 @@ Launch mechanism: MetaDAO or curated community sale. The first airdrop goes to I
 
 ## Revenue Model
 
-Integrators deposit SOL or USDC into an escrow account to fund verifications at ~$0.01 each. The protocol retains ~70% margin after Solana transaction costs (~$0.003). Revenue flows to the treasury, which buys IAM tokens on the open market and distributes them to active validators as staking rewards.
+Integrators deposit SOL or USDC into an escrow account to fund verifications at approximately $0.01 each. The protocol retains roughly 70% margin after Solana transaction costs ($0.003 per transaction). Revenue flows to the treasury, which buys IAM tokens on the open market and distributes them to active validators as staking rewards.
 
 ```
 Integrator deposits $100
-  → covers ~10,000 verifications
-  → IAM retains ~$70 margin
+  → covers 10,000 verifications
+  → IAM retains $70 margin
   → treasury buys IAM tokens
   → validators earn staking rewards
 ```
